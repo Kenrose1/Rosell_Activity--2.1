@@ -24,4 +24,3 @@ An Android quiz application designed to test your knowledge about the planets in
 | :---: | :---: | :---: | :---: |
 | ![Questions Screen](screenshot/questionshoices.png) | ![Multiple Choice Screen](screenshot/choices.png) | ![Answers Screen](screenshot/correctanswer.png) | ![Answers Screen](screenshot/wrong.png) 
 
-*(Note: Replace the image paths in the markdown with the actual paths to your screenshots)*
